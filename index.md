@@ -41,7 +41,7 @@ The aim of this benevolic act is to develop a set of body shields for the medica
   <img src="/ENIM-Medical-gown-Body-shield/assets/Media/laser3.jpg" style="width:225px;height:300px;" />
 </div>
 
-Medical gown that we made under these circumstances  is made of a specific type of plastic that was tested in order to assure an important level of protection to the medical staff , it’s easy to wear and to take off it is also easy to disinfect and rewear . This type of  medical wear is comfortable to practice the work in long periods. 
+Medical gown that we made under these circumstances  is made of a specific type of plastic that was tested in order to assure an important level of protection to the medical staff , it’s easy to wear and to take off it is also easy to disinfect and rewear . This type of  medical wear is comfortable to practice the work in long periods.
 
 * **Medical Gown**
 
@@ -90,11 +90,6 @@ Medical gown that we made under these circumstances  is made of a specific type 
 All of our design documentation and download files are available at ENIM Textile department, Tunisia. Pull requests are encouraged!
 
 Issues / Feature Requests: if you find any errors / omissions in any of the documentation or template files, or would like to request an addition or feature, please feel free to submit an Issue to one of our GitHub repositories! Thank you!
-
-# Achievements
-<hr />
-
-<img src="/ENIM-Medical-gown-Body-shield/assets/Media/UnderBrochure.png">
 
 
 # Disclaimer
