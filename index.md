@@ -31,25 +31,25 @@ Our product is **reusable** and the fabric can resist to disinfection with bleac
 # How?
 <hr />
 
-<img src="/ENIM_Face_Shield_Injection_Molding/assets/Media/BodyShield.JPG">
+<img src="/ENIM-Medical-gown-Body-shield/assets/Media/BodyShield.JPG">
 
 The aim of this benevolic act is to develop a set of body shields for the medical stuff which  are **safe, low cost, easy to reproduce**  quickly using **materials, equipment, and labour available in the local market,** are **easy to disinfect and reuse**, and are comfortable enough to be worn for extended periods by healthcare workers without inducing pain or discomfort. **ENIM professors and students**, has successfully came with a design(shown above)  that meets these goals.
 
 <div class="column">
-  <img src="/ENIM_Face_Shield_Injection_Molding/assets/Media/laser1.jpg" style="width:225px;height:300px;" />
-  <img src="/ENIM_Face_Shield_Injection_Molding/assets/Media/laser2.jpg" style="width:225px;height:300px;" />
-  <img src="/ENIM_Face_Shield_Injection_Molding/assets/Media/laser3.jpg" style="width:225px;height:300px;" />
+  <img src="/ENIM-Medical-gown-Body-shield/assets/Media/laser1.jpg" style="width:225px;height:300px;" />
+  <img src="/ENIM-Medical-gown-Body-shield/assets/Media/laser2.jpg" style="width:225px;height:300px;" />
+  <img src="/ENIM-Medical-gown-Body-shield/assets/Media/laser3.jpg" style="width:225px;height:300px;" />
 </div>
 
 In order to increase the production rate of these visor masks, a reflection was carried out to choose the optimal manufacturing process. The team in charge of this project opted for plastic injection manufacturing. We are aiming to manufacture 10,000 additional pieces. A first injection mold was designed and manufactured by the means of ENIM.
 
 <div class="column">
-  <img src="/ENIM_Face_Shield_Injection_Molding/assets/Media/1.jpg" style="width:225px;height:300px;" />
-  <img src="/ENIM_Face_Shield_Injection_Molding/assets/Media/2.jpg" style="width:225px;height:300px;" />
-  <img src="/ENIM_Face_Shield_Injection_Molding/assets/Media/3.jpg" style="width:225px;height:300px;" />
+  <img src="/ENIM-Medical-gown-Body-shield/assets/Media/1.jpg" style="width:225px;height:300px;" />
+  <img src="/ENIM-Medical-gown-Body-shield/assets/Media/2.jpg" style="width:225px;height:300px;" />
+  <img src="/ENIM-Medical-gown-Body-shield/assets/Media/3.jpg" style="width:225px;height:300px;" />
 </div>
 
-<img src="/ENIM_Face_Shield_Injection_Molding/assets/Media/7.jpg">
+<img src="/ENIM-Medical-gown-Body-shield/assets/Media/7.jpg">
 
 
 <h2 id="gallery">Gallery</h2>
