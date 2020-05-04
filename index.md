@@ -33,6 +33,8 @@ Our product is **reusable** and the fabric can resist to disinfection with bleac
 
 <img src="/ENIM-Medical-gown-Body-shield/assets/Media/BodyShield.JPG" class="center">
 
+<img src="/ENIM-Medical-gown-Body-shield/assets/Media/1.jpg" class="center">
+
 The aim of this benevolic act is to develop a set of body shields for the medical stuff which  are **safe, low cost, easy to reproduce**  quickly using **materials, equipment, and labour available in the local market,** are **easy to disinfect and reuse**, and are comfortable enough to be worn for extended periods by healthcare workers without inducing pain or discomfort. **ENIM professors and students**, has successfully came with a design(shown above)  that meets these goals.
 
 <div class="column">
@@ -47,7 +49,7 @@ Medical gown that we made under these circumstances  is made of a specific type 
 
 <img src="/ENIM-Medical-gown-Body-shield/assets/Media/surBlouse.JPG" class="center">
 
-<img src="/ENIM-Medical-gown-Body-shield/assets/Media/1.jpg" class="center">
+
 
 
 <h2 id="gallery">Gallery</h2>
