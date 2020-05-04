@@ -11,7 +11,7 @@ layout: page
 <iframe width="560" height="315" src="https://www.youtube.com/embed/E96OlSYppQs" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 <hr />
 
-  <img src="/ENIM_Face_Shield_Injection_Molding/assets/Media/brochure.JPG">
+  <img src="/ENIM-Medical-gown-Body-shield/assets/Media/brochure.JPG">
 
 # What?
 <hr />
@@ -41,15 +41,13 @@ The aim of this benevolic act is to develop a set of body shields for the medica
   <img src="/ENIM-Medical-gown-Body-shield/assets/Media/laser3.jpg" style="width:225px;height:300px;" />
 </div>
 
-In order to increase the production rate of these visor masks, a reflection was carried out to choose the optimal manufacturing process. The team in charge of this project opted for plastic injection manufacturing. We are aiming to manufacture 10,000 additional pieces. A first injection mold was designed and manufactured by the means of ENIM.
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
 
-<div class="column">
-  <img src="/ENIM-Medical-gown-Body-shield/assets/Media/1.jpg" style="width:225px;height:300px;" />
-  <img src="/ENIM-Medical-gown-Body-shield/assets/Media/2.jpg" style="width:225px;height:300px;" />
-  <img src="/ENIM-Medical-gown-Body-shield/assets/Media/3.jpg" style="width:225px;height:300px;" />
-</div>
+* **Medical Gown**
 
-<img src="/ENIM-Medical-gown-Body-shield/assets/Media/7.jpg">
+<img src="/ENIM-Medical-gown-Body-shield/assets/Media/surBlouse.JPG">
+
+<img src="/ENIM-Medical-gown-Body-shield/assets/Media/1.jpg" style="width:225px;height:300px;" />
 
 
 <h2 id="gallery">Gallery</h2>
@@ -57,19 +55,19 @@ In order to increase the production rate of these visor masks, a reflection was 
 <hr />
 <div class="row">
   <div class="column">
-    <img src="/ENIM_Face_Shield_Injection_Molding/assets/Media/Sousse.jpg" style="width:225px;height:300px;" />
-    <img src="/ENIM_Face_Shield_Injection_Molding/assets/Media/Kesrine.jpg" style="width:225px;height:300px;" />
-    <img src="/ENIM_Face_Shield_Injection_Molding/assets/Media/farhatHached.png" style="width:225px;height:300px;" />
+    <img src="/ENIM-Medical-gown-Body-shield/assets/Media/Sousse.jpg" style="width:225px;height:300px;" />
+    <img src="/ENIM-Medical-gown-Body-shield/assets/Media/Kesrine.jpg" style="width:225px;height:300px;" />
+    <img src="/ENIM-Medical-gown-Body-shield/assets/Media/farhatHached.png" style="width:225px;height:300px;" />
   </div>
   <div class="column">
-    <img src="/ENIM_Face_Shield_Injection_Molding/assets/Media/5.jpg" style="width:225px;height:300px;" />
-    <img src="/ENIM_Face_Shield_Injection_Molding/assets/Media/4.jpg" style="width:225px;height:300px;" />
-    <img src="/ENIM_Face_Shield_Injection_Molding/assets/Media/6.jpg" style="width:225px;height:300px;" />
+    <img src="/ENIM-Medical-gown-Body-shield/assets/Media/5.jpg" style="width:225px;height:300px;" />
+    <img src="/ENIM-Medical-gown-Body-shield/assets/Media/4.jpg" style="width:225px;height:300px;" />
+    <img src="/ENIM-Medical-gown-Body-shield/assets/Media/6.jpg" style="width:225px;height:300px;" />
   </div>
   <div class="column">
-    <img src="/ENIM_Face_Shield_Injection_Molding/assets/Media/10.jpg" style="width:225px;height:300px;" />
-    <img src="/ENIM_Face_Shield_Injection_Molding/assets/Media/15.jpg" style="width:225px;height:300px;" />
-    <img src="/ENIM_Face_Shield_Injection_Molding/assets/Media/9.jpg" style="width:225px;height:300px;" />
+    <img src="/ENIM-Medical-gown-Body-shield/assets/Media/10.jpg" style="width:225px;height:300px;" />
+    <img src="/ENIM-Medical-gown-Body-shield/assets/Media/15.jpg" style="width:225px;height:300px;" />
+    <img src="/ENIM-Medical-gown-Body-shield/assets/Media/9.jpg" style="width:225px;height:300px;" />
   </div>
 </div>
 
@@ -96,7 +94,7 @@ Issues / Feature Requests: if you find any errors / omissions in any of the docu
 # Achievements
 <hr />
 
-<img src="/ENIM_Face_Shield_Injection_Molding/assets/Media/UnderBrochure.png">
+<img src="/ENIM-Medical-gown-Body-shield/assets/Media/UnderBrochure.png">
 
 
 # Disclaimer
