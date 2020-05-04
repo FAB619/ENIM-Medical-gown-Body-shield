@@ -33,7 +33,7 @@ Our product is **reusable** and the fabric can resist to disinfection with bleac
 
 <img src="/ENIM_Face_Shield_Injection_Molding/assets/Media/BodyShield.JPG">
 
-The aim of this benevolic act is to develop a set of body shields for the medical stuff which  are **safe, low cost, easy to reproduce**  quickly using **materials, equipment, and labour available in the local market,** are **easy to disinfect and reuse**, and are comfortable enough to be worn for extended periods by healthcare workers without inducing pain or discomfort. **ENIM professors and students**, has successfully came with a design(shown above)  that meets these goals. 
+The aim of this benevolic act is to develop a set of body shields for the medical stuff which  are **safe, low cost, easy to reproduce**  quickly using **materials, equipment, and labour available in the local market,** are **easy to disinfect and reuse**, and are comfortable enough to be worn for extended periods by healthcare workers without inducing pain or discomfort. **ENIM professors and students**, has successfully came with a design(shown above)  that meets these goals.
 
 <div class="column">
   <img src="/ENIM_Face_Shield_Injection_Molding/assets/Media/laser1.jpg" style="width:225px;height:300px;" />
@@ -73,9 +73,23 @@ In order to increase the production rate of these visor masks, a reflection was 
   </div>
 </div>
 
+# Features
+<hr />
+
+* Fabric : **100% waterproof canvas fabric** (tissu toile imperméable )  that provides **extra protection**
+
+* Easy **decontamination for reuse**
+
+* Different sizes for both genders allowing **a comfortable wearing for extended periods**.
+
+* **Fast, flexible and scaleable mass-manufacturing approaches** to help meet global demand despite supply chain disruptions
+
+
+
 # Documentation and Files
 <hr />
-All of our design [documentation](https://github.com/FAB619/ENIM_Face_Shield_Injection_Molding) and [download files](https://github.com/FAB619/ENIM_Face_Shield_Injection_Molding/tree/master/Files) are available open-source on GitHub. Pull requests are encouraged!
+
+All of our design documentation and download files are available at ENIM Textile department, Tunisia. Pull requests are encouraged!
 
 Issues / Feature Requests: if you find any errors / omissions in any of the documentation or template files, or would like to request an addition or feature, please feel free to submit an Issue to one of our GitHub repositories! Thank you!
 
