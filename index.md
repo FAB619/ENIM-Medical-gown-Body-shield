@@ -53,12 +53,12 @@ Medical gown that we made under these circumstances  is made of a specific type 
 <h2 id="gallery">Gallery</h2>
 
 <hr />
-<div class="row">
-  <div class="column">
-    <img src="/ENIM-Medical-gown-Body-shield/assets/Media/Sousse.jpg" style="width:225px;height:300px;" />
-    <img src="/ENIM-Medical-gown-Body-shield/assets/Media/Kesrine.jpg" style="width:225px;height:300px;" />
-    <img src="/ENIM-Medical-gown-Body-shield/assets/Media/farhatHached.png" style="width:225px;height:300px;" />
-  </div>
+
+    <img src="/ENIM-Medical-gown-Body-shield/assets/Media/Sousse.jpg" >
+    <img src="/ENIM-Medical-gown-Body-shield/assets/Media/Kesrine.jpg">
+    <img src="/ENIM-Medical-gown-Body-shield/assets/Media/farhatHached.png">
+
+  <div class="row">
   <div class="column">
     <img src="/ENIM-Medical-gown-Body-shield/assets/Media/5.jpg" style="width:225px;height:300px;" />
     <img src="/ENIM-Medical-gown-Body-shield/assets/Media/4.jpg" style="width:225px;height:300px;" />
