@@ -76,7 +76,7 @@ xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
 
 * Fabric : **100% waterproof canvas fabric** (tissu toile imperméable )  that provides **extra protection**
 
-* Easy **decontamination for reuse**
+* Easy **decontamination for reuse**aaaaa
 
 * Different sizes for both genders allowing **a comfortable wearing for extended periods**.
 
