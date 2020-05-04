@@ -8,15 +8,14 @@
 layout: page
 ---
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/KehVifwXcSY" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/E96OlSYppQs" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 <hr />
 
   <img src="/ENIM_Face_Shield_Injection_Molding/assets/Media/brochure.JPG">
 
 # What?
 <hr />
-It is one of the first urgent actions to combat the spread of the virus.
-The request was made, first, by the medical profession and then relayed by the public authorities.
+
 
 
 
@@ -24,7 +23,6 @@ The request was made, first, by the medical profession and then relayed by the p
 
 # Why?
 <hr />
-Visor masks are useful for medical personnel and also for all service agents likely to be confronted with a risk of contamination (cleaning agents, firefighters, etc.)
 
 
 # How?
