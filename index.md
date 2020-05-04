@@ -107,10 +107,3 @@ This Project was entirely done by ENIM students and proffessors with the help of
 FAB619 is only the documentation author. The project belongs to ENIM - École nationale d'ingénieurs de Monastir.
 
 <hr />
-
-<img src="/ENIM_Face_Shield_Injection_Molding/assets/Media/14.jpg">
-
-<img src="/ENIM_Face_Shield_Injection_Molding/assets/Media/13.jpg">
-
-
-<hr />
