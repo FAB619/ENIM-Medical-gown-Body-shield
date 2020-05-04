@@ -15,19 +15,25 @@ layout: page
 
 # What?
 <hr />
-
-
-
-
+Enim body shield is a new design for a **simple, foldable body shield** for infection control developed by the professors and the students of engineering school of Monastir **in response to the Covid-19 pandemic.**
 
 
 # Why?
 <hr />
+Healthcare workers need Medical gowns in addition to masks and gloves  to provide protection from splashes  sprays of infected bodily fluids from Covid-19 patients during a number of high-risk medical procedures and situations. Actually the body shields **to prevent contamination of their clothing.**
+
+## what sets our product apart?
+
+Our product is **reusable** and the fabric can resist to disinfection with bleach or other products (it is highly tested) , the body shield comes in different sizes to assure comfortable moves, also it’s easy to wear and to take
+
 
 
 # How?
 <hr />
-In a first phase, the group in charge of this project carried out the design and manufacture of visor masks by laser cutting (for a good rate compared to 3d printing - Manufacturing time: 2 minutes) and using plates of plexiglass.
+
+<img src="/ENIM_Face_Shield_Injection_Molding/assets/Media/BodyShield.JPG">
+
+The aim of this benevolic act is to develop a set of body shields for the medical stuff which  are **safe, low cost, easy to reproduce**  quickly using **materials, equipment, and labour available in the local market,** are **easy to disinfect and reuse**, and are comfortable enough to be worn for extended periods by healthcare workers without inducing pain or discomfort. **ENIM professors and students**, has successfully came with a design(shown above)  that meets these goals. 
 
 <div class="column">
   <img src="/ENIM_Face_Shield_Injection_Molding/assets/Media/laser1.jpg" style="width:225px;height:300px;" />
