@@ -59,7 +59,7 @@ Medical gown that we made under these circumstances  is made of a specific type 
 <div class="row">
   <div class="column">
     <img src="/ENIM-Medical-gown-Body-shield/assets/Media/Sousse.jpg" style="width:360px;height:300px;" />
-    <img src="/ENIM-Medical-gown-Body-shield/assets/Media/Kesrine.jpg" style="width:360px;height:300px;" />
+    <img src="/ENIM-Medical-gown-Body-shield/assets/Media/15.jpg" style="width:360px;height:300px;" />
   </div>
   <div class="column">
     <img src="/ENIM-Medical-gown-Body-shield/assets/Media/farhatHached.png" style="width:360px;height:300px;" />
@@ -67,18 +67,9 @@ Medical gown that we made under these circumstances  is made of a specific type 
   </div>
   <div class="column">
     <img src="/ENIM-Medical-gown-Body-shield/assets/Media/10.jpg" style="width:225px;height:300px;" />
-    <img src="/ENIM-Medical-gown-Body-shield/assets/Media/15.jpg" style="width:495px;height:300px;" />
+    <img src="/ENIM-Medical-gown-Body-shield/assets/Media/Kesrine.jpg" style="width:495px;height:300px;" />
   </div>
 
-
-
-
-<img src="" class="center">
-<hr />
-<img src="" class="center">
-<hr />
-
-<img src="" class="center">
 
 
 # Features
