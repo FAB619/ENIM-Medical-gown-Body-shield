@@ -39,9 +39,9 @@ Our product is **reusable** and the fabric can resist to disinfection with bleac
 The aim of this benevolic act is to develop a set of body shields for the medical stuff which  are **safe, low cost, easy to reproduce**  quickly using **materials, equipment, and labour available in the local market,** are **easy to disinfect and reuse**, and are comfortable enough to be worn for extended periods by healthcare workers without inducing pain or discomfort. **ENIM professors and students**, has successfully came with a design(shown above)  that meets these goals.
 
 <div class="column">
-  <img src="/ENIM-Medical-gown-Body-shield/assets/Media/laser1.jpg" style="width:225px;height:300px;" />
-  <img src="/ENIM-Medical-gown-Body-shield/assets/Media/laser2.jpg" style="width:225px;height:300px;" />
-  <img src="/ENIM-Medical-gown-Body-shield/assets/Media/laser3.jpg" style="width:225px;height:300px;" />
+  <img src="/ENIM-Medical-gown-Body-shield/assets/Media/laser1.jpg" style="width:230px;height:300px;" />
+  <img src="/ENIM-Medical-gown-Body-shield/assets/Media/laser2.jpg" style="width:230px;height:300px;" />
+  <img src="/ENIM-Medical-gown-Body-shield/assets/Media/laser3.jpg" style="width:230px;height:300px;" />
 </div>
 
 Medical gown that we made under these circumstances  is made of a specific type of plastic that was tested in order to assure an important level of protection to the medical staff , it’s easy to wear and to take off it is also easy to disinfect and rewear . This type of  medical wear is comfortable to practice the work in long periods.
@@ -54,21 +54,31 @@ Medical gown that we made under these circumstances  is made of a specific type 
 
 
 <h2 id="gallery">Gallery</h2>
-
 <hr />
 
-<img src="/ENIM-Medical-gown-Body-shield/assets/Media/Sousse.jpg" class="center" >
+<div class="row">
+  <div class="column">
+    <img src="/ENIM-Medical-gown-Body-shield/assets/Media/Sousse.jpg" style="width:360px;height:300px;" />
+    <img src="/ENIM-Medical-gown-Body-shield/assets/Media/Kesrine.jpg" style="width:360px;height:300px;" />
+  </div>
+  <div class="column">
+    <img src="/ENIM-Medical-gown-Body-shield/assets/Media/farhatHached.png" style="width:360px;height:300px;" />
+    <img src="/ENIM-Medical-gown-Body-shield/assets/Media/4.jpg" style="width:360px;height:300px;" />
+  </div>
+  <div class="column">
+    <img src="/ENIM-Medical-gown-Body-shield/assets/Media/10.jpg" style="width:225px;height:300px;" />
+    <img src="/ENIM-Medical-gown-Body-shield/assets/Media/15.jpg" style="width:495px;height:300px;" />
+  </div>
+
+
+
+
+<img src="" class="center">
 <hr />
-<img src="/ENIM-Medical-gown-Body-shield/assets/Media/Kesrine.jpg" class="center">
-<hr />
-<img src="/ENIM-Medical-gown-Body-shield/assets/Media/farhatHached.png" class="center">
-<hr />
-<img src="/ENIM-Medical-gown-Body-shield/assets/Media/4.jpg" class="center">
-<hr />
-<img src="/ENIM-Medical-gown-Body-shield/assets/Media/10.jpg" class="center">
+<img src="" class="center">
 <hr />
 
-<img src="/ENIM-Medical-gown-Body-shield/assets/Media/15.jpg" class="center">
+<img src="" class="center">
 
 
 # Features
