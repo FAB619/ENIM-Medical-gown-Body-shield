@@ -69,6 +69,7 @@ Medical gown that we made under these circumstances  is made of a specific type 
     <img src="/ENIM-Medical-gown-Body-shield/assets/Media/10.jpg" style="width:225px;height:300px;" />
     <img src="/ENIM-Medical-gown-Body-shield/assets/Media/Kesrine.jpg" style="width:495px;height:300px;" />
   </div>
+</div>
 
 
 
@@ -96,7 +97,7 @@ Issues / Feature Requests: if you find any errors / omissions in any of the docu
 # Disclaimer
 <hr />
 
-This Project was entirely done by ENIM students and proffessors with the help of local industries to help the government against COVID-19.
+This Project was entirely done by ENIM students and professors with the help of local industries to help the government against COVID-19.
 
 FAB619 is only the documentation author. The project belongs to ENIM - École nationale d'ingénieurs de Monastir.
 
