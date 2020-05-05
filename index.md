@@ -22,7 +22,7 @@ Enim body shield is a new design for a **simple, foldable body shield** for infe
 Healthcare workers need Medical gowns in addition to masks and gloves  to provide protection from splashes  sprays of infected bodily fluids from Covid-19 patients during a number of high-risk medical procedures and situations. Actually the body shields **to prevent contamination of their clothing.**
 
 ## what sets our product apart?
-
+<hr />
 Our product is **reusable** and the fabric can resist to disinfection with bleach or other products (it is highly tested) , the body shield comes in different sizes to assure comfortable moves, also it’s easy to wear and to take
 
 
@@ -30,9 +30,11 @@ Our product is **reusable** and the fabric can resist to disinfection with bleac
 # How?
 <hr />
 
-<img src="/ENIM-Medical-gown-Body-shield/assets/Media/BodyShield.JPG" class="center">
+<div class="column">
+  <img src="/ENIM-Medical-gown-Body-shield/assets/Media/BodyShield.JPG" style="width:360px;height:480px;" />
+  <img src="/ENIM-Medical-gown-Body-shield/assets/Media/1.jpg" style="width:360px;height:480px;" />
+</div>
 
-<img src="/ENIM-Medical-gown-Body-shield/assets/Media/1.jpg" class="center">
 
 The aim of this benevolic act is to develop a set of body shields for the medical stuff which  are **safe, low cost, easy to reproduce**  quickly using **materials, equipment, and labour available in the local market,** are **easy to disinfect and reuse**, and are comfortable enough to be worn for extended periods by healthcare workers without inducing pain or discomfort. **ENIM professors and students**, has successfully came with a design(shown above)  that meets these goals.
 
